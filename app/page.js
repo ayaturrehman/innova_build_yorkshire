@@ -1,7 +1,7 @@
 import Layout from "@/components/layout/Layout"
 import Banner from "@/components/sections/home1/Banner"
 import Blog from "@/components/sections/home1/Blog"
-import Services from "@/components/sections/home1/Services"
+// import Services from "@/components/sections/home1/Services"
 import Services2 from "@/components/sections/home1/Services2"
 import About from "@/components/sections/home1/About"
 import Slidingtext from "@/components/sections/home1/Slidingtext"
@@ -21,20 +21,20 @@ export default function Home() {
         <>
             <Layout headerStyle={1} footerStyle={1}>
                 <Banner />
-                <Services/>
+                {/* <Services/> */}
                 <About/>
                 <Services2/>
-                <Slidingtext/>
-                <Project/>
-                <Pricing/>
+                {/* <Slidingtext/> */}
+                {/* <Project/> */}
+                {/* <Pricing/> */}
                 <Whychoose/>
-                <Counter/>
-                <Brand/>
+                {/* <Counter/> */}
+                {/* <Brand/> */}
                 <Faq/>
                 <Contact/>
-                <Testimonai/>
-                <Blog/>
-                <Cta/>
+                {/* <Testimonai/> */}
+                {/* <Blog/> */}
+                {/* <Cta/> */}
                 
             </Layout>
 

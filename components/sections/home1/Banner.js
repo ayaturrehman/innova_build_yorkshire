@@ -10,7 +10,7 @@ const swiperOptions = {
     slidesPerView: 1,
     spaceBetween: 30,
     // autoplay: {
-    //     delay: 2500,
+    //     delay: 4500,
     //     disableOnInteraction: false,
     // },
     loop: true,
@@ -43,30 +43,28 @@ export default function Banner() {
                     <SwiperSlide>
                     <div className="swiper-slide">
                         <div className="main-slider__bg"
-                            style={{ backgroundImage: 'url(assets/images/backgrounds/slider-1-1.jpg' }} ></div>
+                            style={{ backgroundImage: 'url(assets/images/banner/slider-1-1.jpg' }} ></div>
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1.png" alt=""/>
+                            <img src="assets/images/banner/1.jpg" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                            <p className="main-slider__sub-title">welcome to Echelon</p>
+                                            <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
                                             <div className="main-slider__sub-title-shape"></div>
                                         </div>
-                                        <h2 className="main-slider__title">We are special <br/> solutions</h2>
-                                        <p className="main-slider__text">Et purus duis sollicitudin dignissim habitant.
-                                            Egestas nulla quis <br/> venenatis cras sed eu massa eu faucibus. Urna fusce
-                                        </p>
+                                        <h2 className="main-slider__title">Your Vision<br/> Our Expertise</h2>
+                                        <p className="main-slider__text">From innovative commercial projects to bespoke residential homes, we bring your ideas to life with precision and care. Trust us to deliver quality that stands the test of time.</p>
                                         <div className="main-slider__btn-and-video-box">
-                                            <div className="main-slider__btn-box">
+                                            {/* <div className="main-slider__btn-box">
                                                 <Link href="contact" className="main-slider__btn thm-btn">Contact Us<span
                                                         className="icon-dabble-arrow-right"></span></Link>
-                                            </div>
-                                            <div className="main-slider__video-link">
+                                            </div> */}
+                                            {/* <div className="main-slider__video-link">
                                                 <a onClick={() => setOpen(true)}
                                                     className="video-popup">
                                                     <div className="main-slider__video-icon">
@@ -75,7 +73,7 @@ export default function Banner() {
                                                     </div>
                                                 </a>
                                                 <h4 className="main-slider__video-text">Play Video</h4>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
@@ -85,31 +83,29 @@ export default function Banner() {
                     </SwiperSlide>
                     <SwiperSlide>
                     <div className="swiper-slide">
-                        <div className="main-slider__bg"
-                            style={{ backgroundImage: 'url(assets/images/backgrounds/slider-1-2.jpg' }} ></div>
+                    <div className="main-slider__bg"
+                            style={{ backgroundImage: 'url(assets/images/banner/slider-1-1.jpg' }} ></div>
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1.png" alt=""/>
+                        <img src="assets/images/banner/2.jpg" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                            <p className="main-slider__sub-title">welcome to Echelon</p>
-                                            <div className="main-slider__sub-title-shape"></div>
+                                        <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
+                                        <div className="main-slider__sub-title-shape"></div>
                                         </div>
-                                        <h2 className="main-slider__title">We are special <br/> solutions</h2>
-                                        <p className="main-slider__text">Et purus duis sollicitudin dignissim habitant.
-                                            Egestas nulla quis <br/> venenatis cras sed eu massa eu faucibus. Urna fusce
-                                        </p>
+                                        <h2 className="main-slider__title">Crafting Homes<br/> with Heart</h2>
+                                        <p className="main-slider__text">We specialise in creating homes that reflect your lifestyle and personality. Whether it's a new build or a renovation, we focus on every detail to make your dream home a reality.</p>
                                         <div className="main-slider__btn-and-video-box">
                                             <div className="main-slider__btn-box">
                                                 <Link href="contact" className="main-slider__btn thm-btn">Contact Us<span
                                                         className="icon-dabble-arrow-right"></span></Link>
                                             </div>
-                                            <div className="main-slider__video-link">
+                                            {/* <div className="main-slider__video-link">
                                                 <a onClick={() => setOpen(true)}
                                                     className="video-popup">
                                                     <div className="main-slider__video-icon">
@@ -118,7 +114,7 @@ export default function Banner() {
                                                     </div>
                                                 </a>
                                                 <h4 className="main-slider__video-text">Play Video</h4>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
@@ -128,12 +124,12 @@ export default function Banner() {
                     </SwiperSlide>
                     <SwiperSlide>
                     <div className="swiper-slide">
-                        <div className="main-slider__bg"
-                            style={{ backgroundImage: 'url(assets/images/backgrounds/slider-1-3.jpg' }} ></div>
+                    <div className="main-slider__bg"
+                            style={{ backgroundImage: 'url(assets/images/banner/slider-1-1.jpg' }} ></div>
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                            <img src="assets/images/resources/main-slider-img-1.png" alt=""/>
+                        <img src="assets/images/banner/3.jpg" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
@@ -143,11 +139,9 @@ export default function Banner() {
                                             <p className="main-slider__sub-title">welcome to Echelon</p>
                                             <div className="main-slider__sub-title-shape"></div>
                                         </div>
-                                        <h2 className="main-slider__title">We are special <br/> solutions</h2>
-                                        <p className="main-slider__text">Et purus duis sollicitudin dignissim habitant.
-                                            Egestas nulla quis <br/> venenatis cras sed eu massa eu faucibus. Urna fusce
-                                        </p>
-                                        <div className="main-slider__btn-and-video-box">
+                                        <h2 className="main-slider__title">Stress-Free <br/>Construction</h2>
+                                        <p className="main-slider__text">Our comprehensive project management ensures a smooth construction process, from the initial design to the final handover. We take care of everything, so you can enjoy the results.</p>
+                                        {/* <div className="main-slider__btn-and-video-box">
                                             <div className="main-slider__btn-box">
                                                 <Link href="contact" className="main-slider__btn thm-btn">Contact Us<span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -162,7 +156,7 @@ export default function Banner() {
                                                 </a>
                                                 <h4 className="main-slider__video-text">Play Video</h4>
                                             </div>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>

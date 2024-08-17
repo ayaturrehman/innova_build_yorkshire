@@ -1,4 +1,4 @@
-// File: /Users/ayaturrehman/Documents/syslom/Clients/greatyorkshirebuilders/innova build yorkshire/website/app/page.js
+// File: /Users/ayaturrehman/Documents/syslom/Clients/innova build yorkshire/website/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

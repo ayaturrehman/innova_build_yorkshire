@@ -10,9 +10,9 @@ export default function About() {
                 <div className="row">
                     <div className="col-xl-6">
                         <div className="about-one__left">
-                            <div className="about-one__img wow slideInLeft" data-wow-delay="100ms"
+                            <div className="about-one__img wow slideInLeft mt-5" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
-                                <img src="assets/images/resources/about-one-img-1.jpg" alt=""/>
+                                <img src="assets/images/resources/about.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
@@ -24,16 +24,15 @@ export default function About() {
                                 </div>
                                 <h2 className="section-title__title">We are specialized solutions Building</h2>
                             </div>
-                            <p className="about-one__text">Content Marketing Solutions: Engage, Inform, and Convert Content
-                                Marketing Solutions: Engage, Inform, and Convert </p>
+                            <p className="about-one__text">At Innova Build Yorkshire, we’re a forward-thinking startup dedicated to transforming the construction industry. Our fresh approach combines innovative solutions with a strong commitment to quality, ensuring that every project we undertake exceeds expectations. Whether you’re looking to expand, renovate, or build from the ground up, we bring passion, precision, and a relentless focus on delivering exceptional results.</p>
                             <ul className="about-one__points-list list-unstyled">
                                 <li>
                                     <div className="icon">
                                         <span className="icon-analytics"></span>
                                     </div>
                                     <div className="content">
-                                        <h3><Link href="about">Smart Analytics</Link></h3>
-                                        <p>Content Marketing printing Solutions: Engage, <br/> Inform, and Convert</p>
+                                        <h3><Link href="about">Innovative Solutions</Link></h3>
+                                        <p>Using the latest techniques for smarter, faster builds.</p>
                                     </div>
                                 </li>
                                 <li>
@@ -41,8 +40,8 @@ export default function About() {
                                         <span className="icon-prestige"></span>
                                     </div>
                                     <div className="content">
-                                        <h3><Link href="about">Prestige Construction</Link></h3>
-                                        <p>Content Marketing printing Solutions: Engage, <br/> Inform, and Convert</p>
+                                        <h3><Link href="about">Quality Focus</Link></h3>
+                                        <p>ttention to detail ensures durable, high-quality results.</p>
                                     </div>
                                 </li>
                             </ul>

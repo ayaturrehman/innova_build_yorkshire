@@ -5,15 +5,13 @@ import MobileMenu from "../MobileMenu"
 export default function Header1({ scroll, handleMobileMenu, handlePopup }) {
     return (
         <>
-            
-
 		<header className={`main-header ${scroll ? "fixed-header" : ""}`}>
             <nav className="main-menu">
                 <div className="main-menu__wrapper">
                     <div className="main-menu__wrapper-inner">
                         <div className="main-menu__left">
                             <div className="main-menu__logo">
-                                <Link href="/"><img src="assets/images/resources/logo-1.png" alt=""/></Link>
+                                <Link href="/"><img src="logo.jpeg" width={70} alt=""/></Link>
                             </div>
                         </div>
                         <div className="main-menu__right">
