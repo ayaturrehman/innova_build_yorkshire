@@ -6,7 +6,7 @@ export default function About() {
         <>
         {/*About One Start */}
         <section className="about-one">
-            <div className="container">
+            <div className="container mt-5">
                 <div className="row">
                     <div className="col-xl-6">
                         <div className="about-one__left">
