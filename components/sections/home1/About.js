@@ -23,7 +23,7 @@ export default function About() {
                                 <div className="section-title__tagline-box">
                                     <span className="section-title__tagline">ABOUT US</span>
                                 </div>
-                                <h2 className="section-title__title">We are specialized solutions Building</h2>
+                                <h2 className="section-title__title">Your Partner in Innovative Building Solutions</h2>
                             </div>
                             <p className="about-one__text">At Innova Build Yorkshire, we’re a forward-thinking startup dedicated to transforming the construction industry. Our fresh approach combines innovative solutions with a strong commitment to quality, ensuring that every project we undertake exceeds expectations. Whether you’re looking to expand, renovate, or build from the ground up, we bring passion, precision, and a relentless focus on delivering exceptional results.</p>
                             <ul className="about-one__points-list list-unstyled">
