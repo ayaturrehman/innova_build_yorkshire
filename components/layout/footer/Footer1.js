@@ -32,7 +32,7 @@ export default function Footer1() {
                                 </div>
                             </div>
                             <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                <div className="footer-widget__column footer-widget__services">
+                                {/* <div className="footer-widget__column footer-widget__services">
                                     <div className="footer-widget__title-box">
                                         <h3 className="footer-widget__title">Service</h3>
                                     </div>
@@ -53,10 +53,10 @@ export default function Footer1() {
                                             <Link href="service-details">Power supply Guid</Link>
                                         </li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                             <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div className="footer-widget__column footer-widget__news">
+                                {/* <div className="footer-widget__column footer-widget__news">
                                     <div className="footer-widget__title-box">
                                         <h3 className="footer-widget__title">Latest News</h3>
                                     </div>
@@ -78,7 +78,7 @@ export default function Footer1() {
                                                     businesses understand</Link></h3>
                                         </li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                             <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                                 <div className="footer-widget__column footer-widget__contact">

@@ -16,6 +16,7 @@ export default function About() {
                             </div>
                         </div>
                     </div>
+                   
                     <div className="col-xl-6">
                         <div className="about-one__right">
                             <div className="section-title text-left">

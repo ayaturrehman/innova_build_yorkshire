@@ -62,9 +62,9 @@ export default function Contact() {
                                     <h2 className="section-title__title">Building with the Passion Ensuring Satisfaction
                                     </h2>
                                 </div>
-                                <p className="contact-one__text">Et purus duis sollicitudin dignissim.Egestas nulla qui
+                                {/* <p className="contact-one__text">Et purus duis sollicitudin dignissim.Egestas nulla qui
                                     venen acras sed eu massa eu faucibus. Urna fusce aenean tortor pretium. Et purus
-                                    duis sollicitudin loren ipsum dummy text</p>
+                                    duis sollicitudin loren ipsum dummy text</p> */}
                                 <ul className="contact-one__call-box list-unstyled">
                                     <li>
                                         <h4 className="contact-one__call-title">Helpline 24/7</h4>
