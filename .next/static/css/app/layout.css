@@ -7727,8 +7727,9 @@ ul {
 .contact-one__call-box {
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: start;
   margin-top: 30px;
+  flex-direction: column;
 }
 
 .contact-one__call-box li {
@@ -7736,12 +7737,12 @@ ul {
   display: block;
 }
 
-.contact-one__call-box li+li {
-  margin-left: 40px;
+.contact-one__call-box li{
+  margin-bottom: 40px;
 }
 
 .contact-one__call-title {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 30px;
   color: var(--elitecons-white);
