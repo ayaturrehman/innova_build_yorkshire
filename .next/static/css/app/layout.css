@@ -3239,7 +3239,7 @@ ul {
 
 .section-title__title {
   color: var(--elitecons-black);
-  font-size: 60px;
+  font-size: 50px;
   line-height: 58px;
   font-weight: 700;
   text-transform: capitalize;
@@ -5281,7 +5281,7 @@ ul {
 
 .main-slider__title {
   position: relative;
-  font-size: 80px;
+  font-size: 70px;
   color: var(--elitecons-white);
   font-weight: 900;
   line-height: 80px;
