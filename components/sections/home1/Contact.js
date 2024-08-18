@@ -59,8 +59,7 @@ export default function Contact() {
                                         <div className="section-title__tagline-box">
                                             <span className="section-title__tagline">Talk to us</span>
                                         </div>
-                                        <h2 className="section-title__title">Building with the Passion Ensuring Satisfaction
-                                        </h2>
+                                        <h2 className="section-title__title">Build with Care, Delivered with Pride</h2>
                                     </div>
                                     {/* <p className="contact-one__text">Et purus duis sollicitudin dignissim.Egestas nulla qui
                                     venen acras sed eu massa eu faucibus. Urna fusce aenean tortor pretium. Et purus
