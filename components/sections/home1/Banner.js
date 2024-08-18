@@ -100,12 +100,12 @@ export default function Banner() {
                                         </div>
                                         <h2 className="main-slider__title">Crafting Homes<br/> with Heart</h2>
                                         <p className="main-slider__text">We specialise in creating homes that reflect your lifestyle and personality. Whether it's a new build or a renovation, we focus on every detail to make your dream home a reality.</p>
-                                        <div className="main-slider__btn-and-video-box">
+                                        {/* <div className="main-slider__btn-and-video-box">
                                             <div className="main-slider__btn-box">
                                                 <Link href="contact" className="main-slider__btn thm-btn">Contact Us<span
                                                         className="icon-dabble-arrow-right"></span></Link>
                                             </div>
-                                            {/* <div className="main-slider__video-link">
+                                            <div className="main-slider__video-link">
                                                 <a onClick={() => setOpen(true)}
                                                     className="video-popup">
                                                     <div className="main-slider__video-icon">
@@ -114,8 +114,8 @@ export default function Banner() {
                                                     </div>
                                                 </a>
                                                 <h4 className="main-slider__video-text">Play Video</h4>
-                                            </div> */}
-                                        </div>
+                                            </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
