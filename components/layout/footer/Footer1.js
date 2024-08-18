@@ -15,8 +15,7 @@ export default function Footer1() {
                                 <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                                     <div className="footer-widget__column footer-widget__about">
                                         <div className="footer-widget__logo">
-                                            <Link href="/"><img src="assets/images/resources/footer-logo-1.png"
-                                                alt="" /></Link>
+                                        <Link href="/"><img src="logo.jpeg" width={70} alt=""/></Link>
                                         </div>
                                         <p className="footer-widget__about-text">Innovabuild Yorkshire Limited delivers high-quality construction with a focus on innovation, sustainability, and strong client relationships.</p>
                                         <div className="site-footer__social-box">
@@ -123,7 +122,7 @@ export default function Footer1() {
                 <div className="site-footer__bottom">
                     <div className="container">
                         <div className="site-footer__bottom-inner">
-                            <p className="site-footer__bottom-text">© 2024 Innovabuild Yorkshire Limited. All rights reserved. Designed by <Link href="https://syslom.com" target="_blank">Syslom</Link>.</p>
+                            <p className="site-footer__bottom-text"><small> © 2024 Innovabuild Yorkshire Limited. All rights reserved. | Designed by <Link href="https://syslom.com" target="_blank">Syslom</Link></small>.</p>
                             <ul className="list-unstyled site-footer__bottom-menu">
                                 {/* <li><Link href="about">Trams & Condition</Link></li>
                                 <li><Link href="about">Privacy Policy</Link></li>
