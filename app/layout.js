@@ -10,7 +10,7 @@ import "swiper/css/pagination"
 import 'swiper/css/free-mode';
 import {yantramanav} from '@/lib/font'
 export const metadata = {
-    title: 'Elitecons',
+    title: 'InnovaBuild Yorkshire',
     description: 'React Next Js Construction Template',
 }
 
