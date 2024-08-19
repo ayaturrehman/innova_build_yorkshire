@@ -26,7 +26,7 @@ export default function About() {
 
     return (
         <>
-            <Layout headerStyle={6} footerStyle={6} breadcrumbTitle="About Us">
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us">
                 {/*About One Start */}
                 <section className="about-one about-seven">
                     <div className="container">
@@ -37,8 +37,8 @@ export default function About() {
                             <div className="col-xl-6">
                                 <div className="about-one__left">
                                     <div className="about-one__img wow slideInLeft" data-wow-delay="100ms"
-                                        data-wow-duration="2500ms">
-                                        <img src="assets/images/resources/about-one-img-1.jpg" alt="" />
+                                        data-wow-duration="500ms">
+                                        <img src="assets/images/resources/about-header.jpg" alt="about-header" />
                                     </div>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ export default function About() {
                                         <div className="section-title__tagline-box">
                                             <span className="section-title__tagline">ABOUT US</span>
                                         </div>
-                                        <h2 className="section-title__title">We are specialized solutions Building</h2>
+                                        <h2 className="section-title__title">Innovating Spaces<br />Building Dreams</h2>
                                     </div>
                                     <p className="about-one__text">
                                         At Innovabuild Yorkshire Limited, we’re passionate about building and transforming spaces that enhance the way you live and work. As a dynamic startup in the construction industry, we bring fresh ideas, innovative solutions, and a commitment to quality that sets us apart.
@@ -64,7 +64,7 @@ export default function About() {
                 {/*About One End */}
 
                 {/* Counter Two Start */}
-                <section className="counter-two" style={{backgroundColor:"rgba(0, 22, 89, 0.9)", padding:"5rem", marginBottom:"4rem"}}>
+                <section className="counter-two" style={{ backgroundColor: "rgba(0, 22, 89, 0.9)", padding: "5rem", marginBottom: "4rem" }}>
                     {/* <div className="counter-two__bg-box">
                         <div className="counter-two__bg" ></div>
                     </div> */}
@@ -88,13 +88,17 @@ export default function About() {
                             <div className="col-sm-12">
                                 <p className="mb-4">
                                     At Innovabuild Yorkshire Limited, we’re not just building structures; we’re building trust and lasting relationships with our clients. We understand that construction projects can be daunting, which is why we place a strong emphasis on open communication, transparency, and collaboration throughout the entire process. From the initial consultation to the final handover, our goal is to make you feel confident and supported every step of the way.
-                                </p><p  className="mb-4"> As a company, we believe that the foundation of any successful project lies in the relationships we build with our clients. We take the time to understand your unique vision, needs, and goals, ensuring that the final result is a true reflection of what you imagined. By prioritizing your satisfaction and consistently delivering on our promises, we aim to earn your trust not just for one project, but for all your future construction needs.
-                                 As a company, we believe that the foundation of any successful project lies in the relationships we build with our clients. We take the time to understand your unique vision, needs, and goals, ensuring that the final result is a true reflection of what you imagined. By prioritizing your satisfaction and consistently delivering on our promises, we aim to earn your trust not just for one project, but for all your future construction needs.
+                                </p><p className="mb-4"> As a company, we believe that the foundation of any successful project lies in the relationships we build with our clients. We take the time to understand your unique vision, needs, and goals, ensuring that the final result is a true reflection of what you imagined. By prioritizing your satisfaction and consistently delivering on our promises, we aim to earn your trust not just for one project, but for all your future construction needs.
+                                    As a company, we believe that the foundation of any successful project lies in the relationships we build with our clients. We take the time to understand your unique vision, needs, and goals, ensuring that the final result is a true reflection of what you imagined. By prioritizing your satisfaction and consistently delivering on our promises, we aim to earn your trust not just for one project, but for all your future construction needs.
                                 </p>
-                                <p  className="mb-4">
+                                <p className="mb-4">
                                     As we continue to grow, our commitment to excellence remains unwavering. We are dedicated to staying ahead of industry trends, embracing sustainable practices, and using the highest quality materials to ensure that every project we undertake is built to last. Our focus on sustainability isn’t just about the materials we use, but also about creating spaces that are energy-efficient, environmentally friendly, and designed to enhance the well-being of those who use them.
-                                </p><p  className="mb-4">
+                                </p><p className="mb-4">
                                     At Innovabuild Yorkshire Limited, we believe in the power of construction to transform lives and communities. Whether we’re building a family home, renovating a commercial space, or adding an extension to enhance your living area, we approach every project with the same level of passion and commitment. Let’s build something great together, not just for today, but for the future.
+                                </p>
+
+                                <p className="my-5 fst-italic bg-light px-2">
+                                    If you have any questions or would like to discuss your next project, feel free to reach out at enquiries@innovabuildyorkshire.co.uk.
                                 </p>
                             </div>
                         </div>
@@ -103,7 +107,7 @@ export default function About() {
 
 
                 {/*CTA One Start*/}
-                <section className="cta-one">
+                {/* <section className="cta-one">
                     <div className="container">
                         <div className="cta-one__inner">
                             <div className="cta-one__shape-1">
@@ -123,7 +127,7 @@ export default function About() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
                 {/*CTA One End*/}
 
             </Layout>

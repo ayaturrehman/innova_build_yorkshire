@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <>
-    <Layout headerStyle={6} footerStyle={6} breadcrumbTitle="Contact">
+    <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact">
         
         {/*Contact Page Start*/}
         <section className="contact-page">

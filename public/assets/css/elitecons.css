@@ -14040,7 +14040,8 @@ ul {
 .page-header {
   position: relative;
   display: block;
-  padding: 249px 0 166px;
+  /* padding: 249px 0 166px; */
+  padding: 50px;
   background-color: var(--elitecons-black);
   overflow: hidden;
   z-index: 1;

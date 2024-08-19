@@ -4,7 +4,7 @@ export default function Home() {
 
     return (
         <>
-        <Layout headerStyle={6} footerStyle={6} breadcrumbTitle="Services Details">
+        <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Services Details">
         {/*Services Details Start*/}
         <section className="services-details">
             <div className="container">
