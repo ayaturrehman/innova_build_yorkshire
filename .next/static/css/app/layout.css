@@ -18077,6 +18077,13 @@ ul {
 /*--------------------------------------------------------------
 # Services Details
 --------------------------------------------------------------*/
+.service-list li{
+  margin-top: .5rem;
+}
+.service-list li h5{
+  font-size: 18px !important;
+}
+
 .services-details {
   position: relative;
   display: block;

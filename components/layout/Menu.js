@@ -17,13 +17,12 @@ export default function Menu() {
                 <li className="dropdown">
                     <Link href="#">Services</Link>
                     <ul>
-                        <li><Link href="service-details">Renovations</Link></li>
-                        <li><Link href="service-details">Architectural Design</Link></li>
-                        <li><Link href="service-details">Plumbing</Link></li>
-                        <li><Link href="service-details">Electrical</Link></li>
-                        <li><Link href="service-details">Pluming</Link></li>
-                        <li><Link href="service-details">Heating Solutions</Link></li>
-                        <li><Link href="service-details">Home Extensions</Link></li>
+                        <li><Link href="/services/renovations">Renovations</Link></li>
+                        <li><Link href="/services/architectural-design">Architectural Design</Link></li>
+                        <li><Link href="/services/plumbing">Plumbing</Link></li>
+                        <li><Link href="/services/electrical">Electrical</Link></li>
+                        <li><Link href="/services/heating-solutions">Heating Solutions</Link></li>
+                        <li><Link href="/services/home-extensions">Home Extensions</Link></li>
                     </ul>
                 </li>
                 <li>
