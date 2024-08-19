@@ -40,6 +40,7 @@ export default function About() {
                                         data-wow-duration="500ms">
                                         <img src="assets/images/resources/about-header.jpg" alt="about-header" />
                                     </div>
+                                    <small style={{fontSize:"10px !important"}} class="text-secondary">Image by <a href="https://www.freepik.com" className="text-decoration-none text-secondary" target="_blank" rel="noopener noreferrer">Freepik</a></small>
                                 </div>
                             </div>
 
