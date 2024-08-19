@@ -14,14 +14,17 @@ export default function Home() {
                             <div className="col-xl-6 col-lg-6">
                                 <div className="contact-page__left">
                                     <div className="contact-page__img">
-                                        <img src="assets/images/resources/contact-page-img-1.jpg" alt="" />
+                                        <img src="assets/images/resources/contact-header.jpg" alt="" />
                                     </div>
+                                    <small style={{ fontSize: "10px !important" }} class="text-secondary">Image by <a href="https://www.freepik.com" className="text-decoration-none text-secondary" target="_blank" rel="noopener noreferrer">Freepik</a></small>
                                 </div>
                             </div>
                             <div className="col-xl-6 col-lg-6">
                                 <div className="contact-page__right">
-                                    <h3 className="contact-page__title">Let us know about your
-                                        next project</h3>
+                                    <h3 className="contact-page__title">Got a Vision? Let's Bring It to Life</h3>
+                                    <p className="mb-5">
+                                        Whether you're planning a new construction, a renovation, or an extension, we're here to bring your vision to life. Reach out today to discuss how we can help create the home of your dreams
+                                    </p>
                                     <ul className="contact-page__contact-list list-unstyled">
                                         <li>
                                             <div className="icon">
@@ -126,7 +129,7 @@ export default function Home() {
                 {/*Contact Three End*/}
 
                 {/*CTA One Start*/}
-                <section className="cta-one">
+                {/* <section className="cta-one">
                     <div className="container">
                         <div className="cta-one__inner">
                             <div className="cta-one__shape-1">
@@ -146,7 +149,7 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
                 {/*CTA One End*/}
 
             </Layout>
