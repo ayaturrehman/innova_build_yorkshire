@@ -101,6 +101,11 @@ export default function About() {
                                 <p className="my-5 fst-italic bg-light px-2">
                                     If you have any questions or would like to discuss your next project, feel free to reach out at enquiries@innovabuildyorkshire.co.uk.
                                 </p>
+
+                                <p className="text-dark mb-5 fw-bold">
+                                INNOVABUILD YORKSHIRE LIMITED <br/>
+                                Company number: 15896642
+                                </p>
                             </div>
                         </div>
                     </div>
