@@ -47,7 +47,7 @@ export default function Banner() {
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                            <img src="assets/images/banner/1.jpg" alt=""/>
+                            <img src="assets/images/banner/1.webp" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
@@ -88,7 +88,7 @@ export default function Banner() {
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                        <img src="assets/images/banner/2.jpg" alt=""/>
+                        <img src="assets/images/banner/2.webp" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
@@ -129,7 +129,7 @@ export default function Banner() {
                         <div className="main-slider__shape-1"
                             style={{ backgroundImage: 'url(assets/images/shapes/main-slider-shape-1.jpg' }} ></div>
                         <div className="main-slider__img">
-                        <img src="assets/images/banner/3.jpg" alt=""/>
+                        <img src="assets/images/banner/3.webp" alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
