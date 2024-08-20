@@ -11,8 +11,8 @@ export default function About() {
                     <div className="col-xl-6">
                         <div className="about-one__left">
                             <div className="about-one__img wow slideInLeft mt-5" data-wow-delay="100ms"
-                                data-wow-duration="2500ms">
-                                <img src="assets/images/resources/about.jpg" alt=""/>
+                                data-wow-duration="1000ms">
+                                <img src="assets/images/resources/about.webp" alt=""/>
                             </div>
                         </div>
                     </div>
