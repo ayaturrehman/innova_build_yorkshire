@@ -2950,10 +2950,20 @@
     }
 
     .main-slider__title {
-        font-size: 35px;
-        line-height: 45px;
+        background-color: rgba(250, 235, 215, 0.305);
+        font-size: 35px !important;
+        line-height: 35px !important;
     }
 
+    .main-slider__sub-title{
+        font-size: .5rem !important;
+        line-height: .7rem !important;
+    }
+
+    .main-slider__text{
+        font-size: 1rem !important;
+        line-height: 1.5rem !important;
+    }
     .main-slider__text br {
         display: none;
     }

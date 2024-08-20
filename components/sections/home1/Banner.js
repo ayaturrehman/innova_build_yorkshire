@@ -136,7 +136,7 @@ export default function Banner() {
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                            <p className="main-slider__sub-title">welcome to Echelon</p>
+                                            <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
                                             <div className="main-slider__sub-title-shape"></div>
                                         </div>
                                         <h2 className="main-slider__title">Stress-Free <br/>Construction</h2>
