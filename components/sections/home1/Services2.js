@@ -33,7 +33,7 @@ export default function Services2() {
                     </div>
                     {/*Services Two Single End*/}
                     {/*Services Two Single Start*/}
-                    <div className="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    {/* <div className="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                         <div className="services-two__single">
                             <div className="services-two__img-box">
                                 <div className="services-two__img">
@@ -50,10 +50,10 @@ export default function Services2() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/*Services Two Single End*/}
                     {/*Services Two Single Start*/}
-                    <div className="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
+                    {/* <div className="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
                         <div className="services-two__single">
                             <div className="services-two__img-box">
                                 <div className="services-two__img">
@@ -70,7 +70,7 @@ export default function Services2() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/*Services Two Single End*/}
 
 
