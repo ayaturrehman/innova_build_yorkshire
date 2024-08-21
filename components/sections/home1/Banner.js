@@ -54,7 +54,7 @@ export default function Banner() {
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                            <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
+                                            <p className="main-slider__sub-title">Welcome to InnovaBuild Yorkshire</p>
                                             <div className="main-slider__sub-title-shape"></div>
                                         </div>
                                         <h2 className="main-slider__title">Your Vision<br/> Our Expertise</h2>
@@ -95,7 +95,7 @@ export default function Banner() {
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                        <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
+                                        <p className="main-slider__sub-title">Welcome to InnovaBuild Yorkshire</p>
                                         <div className="main-slider__sub-title-shape"></div>
                                         </div>
                                         <h2 className="main-slider__title">Crafting Homes<br/> with Heart</h2>
@@ -136,7 +136,7 @@ export default function Banner() {
                                 <div className="col-xl-12">
                                     <div className="main-slider__content">
                                         <div className="main-slider__sub-title-box">
-                                            <p className="main-slider__sub-title">Welcome to Innova Build Yorkshire</p>
+                                            <p className="main-slider__sub-title">Welcome to InnovaBuild Yorkshire</p>
                                             <div className="main-slider__sub-title-shape"></div>
                                         </div>
                                         <h2 className="main-slider__title">Stress-Free <br/>Construction</h2>
