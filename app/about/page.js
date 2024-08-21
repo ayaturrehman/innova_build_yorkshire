@@ -95,7 +95,7 @@ export default function About() {
                                 <p className="mb-4">
                                     As we continue to grow, our commitment to excellence remains unwavering. We are dedicated to staying ahead of industry trends, embracing sustainable practices, and using the highest quality materials to ensure that every project we undertake is built to last. Our focus on sustainability isn’t just about the materials we use, but also about creating spaces that are energy-efficient, environmentally friendly, and designed to enhance the well-being of those who use them.
                                 </p><p className="mb-4">
-                                    At Innovabuild Yorkshire Limited, we believe in the power of construction to transform lives and communities. Whether we’re building a family home, renovating a commercial space, or adding an extension to enhance your living area, we approach every project with the same level of passion and commitment. Let’s build something great together, not just for today, but for the future.
+                                    At InnovaBuild Yorkshire Limited, we believe in the power of construction to transform lives and communities. Whether we’re building a family home, renovating a commercial space, or adding an extension to enhance your living area, we approach every project with the same level of passion and commitment. Let’s build something great together, not just for today, but for the future.
                                 </p>
 
                                 <p className="my-5 fst-italic bg-light px-2">
