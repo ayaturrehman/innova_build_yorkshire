@@ -17,7 +17,7 @@ export default function Footer1() {
                                         <div className="footer-widget__logo">
                                         <Link href="/"><img src="logo.jpeg" width={70} alt=""/></Link>
                                         </div>
-                                        <p className="footer-widget__about-text">Innovabuild Yorkshire Limited delivers high-quality construction with a focus on innovation, sustainability, and strong client relationships.</p>
+                                        <p className="footer-widget__about-text">InnovaBuild Yorkshire Limited delivers high-quality construction with a focus on innovation, sustainability, and strong client relationships.</p>
                                         <div className="site-footer__social-box">
                                             <h3 className="site-footer__social-title">Follow Us</h3>
                                             <div className="site-footer__social">
