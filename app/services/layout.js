@@ -3,8 +3,8 @@ import Layout from "@/components/layout/Layout";
 export default function ServicesLayout({ children }) {
     return (
         <Layout headerStyle={1} footerStyle={1}>
+            {children}
             <div className="container">
-                {children}
                 <h3 className="my-3">Our Project Process</h3>
                 <ul className="service-list">
                     <li>

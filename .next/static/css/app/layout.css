@@ -18087,7 +18087,7 @@ ul {
 .services-details {
   position: relative;
   display: block;
-  padding: 120px 0 183px;
+  padding: 2rem;
   z-index: 1;
 }
 
@@ -18108,7 +18108,7 @@ ul {
 .services-details__content {
   position: relative;
   display: block;
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 
 .services-details__title-1 {
@@ -19438,7 +19438,7 @@ ul {
     }
 
     .services-page {
-        padding: 120px 0 120px;
+        /* padding: 120px 0 120px; */
     }
 
     .team-page {
@@ -19995,7 +19995,7 @@ ul {
     }
 
     .services-page {
-        padding: 120px 0 120px;
+        /* padding: 120px 0 120px; */
     }
 
     .services-page .services-four__text br {
@@ -21195,7 +21195,7 @@ ul {
     }
 
     .services-details {
-        padding: 120px 0 120px;
+        padding: 1rem 0 120px;
     }
 
     .services-details__title-1 {

@@ -15652,7 +15652,7 @@ ul {
 .services-details {
   position: relative;
   display: block;
-  padding: 120px 0 183px;
+  padding: 2rem;
   z-index: 1;
 }
 
@@ -15673,7 +15673,7 @@ ul {
 .services-details__content {
   position: relative;
   display: block;
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 
 .services-details__title-1 {

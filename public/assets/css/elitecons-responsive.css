@@ -824,7 +824,7 @@
     }
 
     .services-page {
-        padding: 120px 0 120px;
+        /* padding: 120px 0 120px; */
     }
 
     .team-page {
@@ -1380,7 +1380,7 @@
     }
 
     .services-page {
-        padding: 120px 0 120px;
+        /* padding: 120px 0 120px; */
     }
 
     .services-page .services-four__text br {
@@ -2579,7 +2579,7 @@
     }
 
     .services-details {
-        padding: 120px 0 120px;
+        padding: 1rem 0 120px;
     }
 
     .services-details__title-1 {
