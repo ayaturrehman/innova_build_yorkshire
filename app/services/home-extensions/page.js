@@ -12,7 +12,7 @@ export default function home() {
                                 <h1 className="services-details__title-1">Expand Your Living Space with Expert Home Extensions</h1>
                                 <p className="services-details__text-1">Innovative Designs and Quality Craftsmanship for Your Dream Home Expansion</p>
                                 <div className="services-details__img">
-                                    <img src="/assets/images/services/heating.png" alt="" />
+                                    <img src="/assets/images/services/home-extension.png" alt="" />
                                 </div>
                                 <h3 className="services-details__title-2 my-2">Home Extension</h3>
                                 <p className="services-details__text-2">At Innovabuild Yorkshire, we specialize in transforming homes by adding beautiful, functional extensions that enhance your living space. Whether you're looking to expand your kitchen, add a new bedroom, or create a seamless indoor-outdoor living area, our expert team is here to bring your vision to life.</p>
