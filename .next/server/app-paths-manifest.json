@@ -1,8 +1,8 @@
 {
-  "/page": "app/page.js",
   "/not-found": "app/not-found.js",
-  "/services/page": "app/services/page.js",
-  "/services/renovations/page": "app/services/renovations/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/services/heating-solutions/page": "app/services/heating-solutions/page.js",
+  "/services/plumbing/page": "app/services/plumbing/page.js",
   "/services/home-extensions/page": "app/services/home-extensions/page.js",
-  "/services/plumbing/page": "app/services/plumbing/page.js"
+  "/services/renovations/page": "app/services/renovations/page.js"
 }

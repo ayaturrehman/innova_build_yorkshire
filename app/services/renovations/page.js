@@ -11,10 +11,10 @@ export default function Home() {
                             <div className="services-details__left">
 
                                 <div className="services-details__content">
-                                    <h3 className="services-details__title-1">Transform Your Space with Expert Renovations</h3>
+                                    <h1 className="services-details__title-1">Transform Your Space with Expert Renovations</h1>
                                     <p className="services-details__text-1">From Concept to Completion, We Make Your Renovation Dreams a Reality</p>
                                     <div className="services-details__img">
-                                        <img src="/assets/images/services/services-details-img-1.jpg" alt="" />
+                                        <img src="/assets/images/services/renovation.webp" alt="" />
                                     </div>
                                     <h3 className="services-details__title-2">Renovations</h3>
                                     <p className="services-details__text-2">At Innovabuild Yorkshire, we specialize in transforming spaces to meet your evolving needs. Whether it's a full home renovation or updating a specific area, we bring your vision to life with expert craftsmanship and attention to detail.</p>
@@ -37,7 +37,7 @@ export default function Home() {
                                             <div className="icon">
                                                 <span className="icon-check"></span>
                                             </div>
-                                            <p> Bathroom Renovations</p>
+                                            <p>Bathroom Renovations</p>
                                         </li>
                                         <li>
                                             <div className="icon">
@@ -53,7 +53,7 @@ export default function Home() {
                                         </li>
                                     </ul>
                                     <div className="services-details__sidebar-btn-box">
-                                        <Link href="service-details" className="services-details__sidebar-btn thm-btn">Request
+                                        <Link href="/contact" className="services-details__sidebar-btn thm-btn">Request
                                             service<span className="icon-dabble-arrow-right"></span></Link>
                                     </div>
                                 </div>
