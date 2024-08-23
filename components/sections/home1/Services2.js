@@ -25,7 +25,7 @@ export default function Services2() {
                                 <h3 className="services-two__title"><Link href="service-details">Renovations</Link></h3>
                                 <p className="services-two__text">Is your home outdated? Our renovations modernise and refresh your space, improving both style and functionality to meet your current needs.</p>
                                 <div className="services-two__btn-box">
-                                    <Link href="service-details" className="services-two__btn thm-btn">Read more<span
+                                    <Link href="/services/renovations" className="services-two__btn thm-btn">Read more<span
                                             className="icon-dabble-arrow-right"></span></Link>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@ export default function Services2() {
                                 </h3>
                                 <p className="services-two__text">Dealing with leaks or plumbing issues? We fix and upgrade your plumbing systems to ensure reliable water flow and prevent future problems</p>
                                 <div className="services-two__btn-box">
-                                    <Link href="service-details" className="services-two__btn thm-btn">Read more<span
+                                    <Link href="/services/plumbing" className="services-two__btn thm-btn">Read more<span
                                             className="icon-dabble-arrow-right"></span></Link>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@ export default function Services2() {
                                 </h3>
                                 <p className="services-two__text">Cold or inefficient heating? Our heating services keep your home warm and energy-efficient, providing comfort year-round.</p>
                                 <div className="services-two__btn-box">
-                                    <Link href="service-details" className="services-two__btn thm-btn">Read more<span
+                                    <Link href="/services/heating-solutions" className="services-two__btn thm-btn">Read more<span
                                             className="icon-dabble-arrow-right"></span></Link>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@ export default function Services2() {
                                 </h3>
                                 <p className="services-two__text">Feeling cramped? Our house extensions add the space you need without the hassle of moving. From design to build, we expand your home to fit your lifestyle.</p>
                                 <div className="services-two__btn-box">
-                                    <Link href="service-details" className="services-two__btn thm-btn">Read more<span
+                                    <Link href="/services/home-extensions" className="services-two__btn thm-btn">Read more<span
                                             className="icon-dabble-arrow-right"></span></Link>
                                 </div>
                             </div>
