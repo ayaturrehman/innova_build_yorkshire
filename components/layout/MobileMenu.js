@@ -43,15 +43,14 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                 {/* <li><Link href="/faq">FAQ</Link></li> */}
                                 <li className={isActive.key == 1 ? "dropdown current" : "dropdown"}><Link href="#">Services</Link>
                                     <ul style={{ display: `${isActive.key == 1 ? "block" : "none"}` }}>
-                                        <li><Link className="current" href="service-details">Renovations</Link></li>
-                                        <li><Link href="service-details">Plumbing</Link></li>
-                                        <li><Link href="service-details">Pluming</Link></li>
-                                        <li><Link href="service-details">Heating Solutions</Link></li>
-                                        <li><Link href="service-details">Home Extensions</Link></li>
+                                        <li><Link href="/services/renovations">Renovations</Link></li>
+                                        <li><Link href="/services/plumbing">Plumbing</Link></li>
+                                        <li><Link href="/services/heating-solutions">Heating Solutions</Link></li>
+                                        <li><Link href="/services/home-extensions">Home Extensions</Link></li>
                                     </ul>
                                     <button className={isActive.key == 1 ? "expanded open" : ""} onClick={() => handleToggle(1)}><span className="fa fa-angle-right" /></button>
                                 </li>
-                                
+
                                 <li><Link href="/contact">Contact</Link></li>
                             </ul>
                         </div>
@@ -63,9 +62,9 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                         <li>
                             <i className="fa fa-phone-alt"></i>
                             <Link href="tel:447784687865">+44 778 468 7865</Link>
-                            </li>
+                        </li>
                     </ul>
-                    
+
                 </div>
             </div>
 
