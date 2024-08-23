@@ -4,7 +4,6 @@ import CounterUp from "@/components/elements/CounterUp"
 import Link from "next/link"
 import { useState } from 'react'
 
-
 export default function About() {
     const [isActive, setIsActive] = useState({
         status: false,
