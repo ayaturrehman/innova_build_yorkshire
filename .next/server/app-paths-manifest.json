@@ -1,9 +1,5 @@
 {
   "/not-found": "app/not-found.js",
-  "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/about/page": "app/about/page.js",
-  "/services/home-extensions/page": "app/services/home-extensions/page.js",
-  "/services/heating-solutions/page": "app/services/heating-solutions/page.js",
-  "/services/renovations/page": "app/services/renovations/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
 }

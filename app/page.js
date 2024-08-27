@@ -14,6 +14,7 @@ import Faq from "@/components/sections/home1/Faq"
 import Contact from "@/components/sections/home1/Contact"
 import Testimonai from "@/components/sections/home1/Testimonial"
 import Cta from "@/components/sections/home1/Cta"
+import CookieConsent from "@/components/elements/CookieConsent"
 
 export default function Home() {
 
@@ -35,7 +36,8 @@ export default function Home() {
                 {/* <Testimonai/> */}
                 {/* <Blog/> */}
                 {/* <Cta/> */}
-                
+                <CookieConsent />
+
             </Layout>
 
         </>
